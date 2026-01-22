@@ -36,3 +36,5 @@ All required macros are documented directly inside the template.
    - `{$PBS.TOKEN.ID}`
    - `{$PBS.TOKEN.SECRET}`
 
+## Notes
+Ceph-related checks refer to storage health information visible from the PBS node environment, when applicable.
